@@ -1,0 +1,57 @@
+body
+{
+  background-color: rgb(66, 228, 228);
+  margin: 15px;
+}
+h1
+{
+  text-align: center;
+  text-decoration:underline;
+  color: blueviolet;
+}
+h3,h2
+{
+  text-align: center;
+  text-decoration:underline;
+  color: #3300FF;
+}
+p
+{
+  color: #003300;
+  font-size:25px;
+}
+th
+{
+  color: #440440;
+}
+input,textarea,select
+{
+  border:2px solid red;
+  color:blue;
+}
+input[type=submit]
+{
+  position:relative;
+  left:100px;
+  top:10px;
+  border-radius:30%;
+}
+button
+{
+  position: relative;
+  background-color: #440440;
+  left:620px;
+  border:2px solid red;
+  color:blue;
+  height:1cm;
+  width:7cm;
+  border-radius:10%;
+  cursor:pointer;
+}
+img
+{
+  width:500px;
+  height:400px;
+  position:relative;
+  left:500px;
+}
